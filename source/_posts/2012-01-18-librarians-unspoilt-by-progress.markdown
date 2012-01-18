@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Librarians as Booty Callees"
+title: "Librarians: Unspoilt by Progress"
 date: 2012-01-18 11:03
 comments: true
 categories: [wikipedia, relevancy, SOPA]
