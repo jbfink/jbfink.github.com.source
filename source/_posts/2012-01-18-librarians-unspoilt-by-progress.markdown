@@ -6,7 +6,7 @@ comments: true
 categories: [wikipedia, relevancy, SOPA]
 ---
 
-Like a lot of technical people, I've been pretty aware of the [SOPA](http://en.wikipedia.org/wiki/SOPA) mess in the United States. I even blacked out this blog on the eighteenth, which, since I hadn't actually started posting here yet didn't really mean anything to anybody maybe, but symbolic gestures still count, right? But as the day progressed, I started getting pretty damn bummed out about things. Not because my [favourite](http://reddit.com) [sites](http://www.metafilter.com) on the [internet](http://en.wikipedia.org) were unusable, but for a far more personal reason.
+Like a lot of technical people, I've been pretty aware of the [SOPA](http://en.wikipedia.org/wiki/SOPA) mess in the United States. I even blacked out this blog on the eighteenth, which, since I hadn't actually started posting here yet didn't really mean anything to anybody maybe, but symbolic gestures still count, right? But as the day progressed, I started getting pretty damn bummed out about things. Not because my [favourite](http://reddit.com) [sites](http://www.metafilter.com) on the [internet](http://en.wikipedia.org) were unusable, but for something else.
 
 <!-- more -->
 
