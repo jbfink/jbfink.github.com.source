@@ -12,6 +12,8 @@ Full disclosure on this one: I wrote and rewrote and rewrote this post as events
 
 So the story as I understand it (but told [way better](http://gavialib.com/2012/01/restructuring/) by [any](http://chrisbourg.wordpress.com/2012/01/19/whats-happening-at-harvard/) [number](http://oodja.blogspot.com/2012/01/great-librarian-massacre-and-other.html) of people 
 
+[pdf link to 2009 report](http://www.provost.harvard.edu/reports/Library_Task_Force_Report.pdf)
+
 [#hlth](https://twitter.com/#!/search/%23hlth)
 
 [what's happening at harvard](http://chrisbourg.wordpress.com/2012/01/19/whats-happening-at-harvard/)
