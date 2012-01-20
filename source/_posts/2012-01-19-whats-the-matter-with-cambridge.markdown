@@ -15,4 +15,6 @@ test etc etc
 
 [google plus thread](https://plus.google.com/u/0/108106506236836816610/posts/RXau1dC29ho)
 
+[jersey exile post](http://oodja.blogspot.com/2012/01/great-librarian-massacre-and-other.html)
+
 [lj harvard clarification](http://lj.libraryjournal.com/2012/01/academic-libraries/after-furor-harvard-library-spokesperson-says-inaccurate-that-all-staff-will-have-to-reapply/)
