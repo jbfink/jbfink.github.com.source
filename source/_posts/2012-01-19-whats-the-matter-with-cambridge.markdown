@@ -14,3 +14,5 @@ test etc etc
 [what's happening at harvard](http://chrisbourg.wordpress.com/2012/01/19/whats-happening-at-harvard/)
 
 [google plus thread](https://plus.google.com/u/0/108106506236836816610/posts/RXau1dC29ho)
+
+[lj harvard clarification](http://lj.libraryjournal.com/2012/01/academic-libraries/after-furor-harvard-library-spokesperson-says-inaccurate-that-all-staff-will-have-to-reapply/)
