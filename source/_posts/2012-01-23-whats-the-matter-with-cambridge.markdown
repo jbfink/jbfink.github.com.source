@@ -12,7 +12,7 @@ Full disclosure on this one: I wrote and rewrote and rewrote this post as events
 
 So the story as I understand it (but told [way better](http://gavialib.com/2012/01/restructuring/) by [any](http://chrisbourg.wordpress.com/2012/01/19/whats-happening-at-harvard/) [number](http://oodja.blogspot.com/2012/01/great-librarian-massacre-and-other.html) of people is this:
 
-* In 2009, Harvard University, an institution with 73 individual libraries, commissioned a [report](http://www.provost.harvard.edu/reports/Library_Task_Force_Report.pdf) on organizational problems, a great many of which are related to redundancies inherent in a system as disaggregated, far-flung and apparently historically untouched as Harvard's.
+* In 2009, Harvard University, an institution with 40 libraries, commissioned a [report](http://www.provost.harvard.edu/reports/Library_Task_Force_Report.pdf) on organizational problems, a great many of which are related to redundancies inherent in a system as disaggregated, far-flung and apparently historically untouched as Harvard's.
 
 * Nothing happened (much) from 2009-January 19th 2012. Some staff attrition occurred, but no substantial communication from management to staff about what was happening in wake of the 2009 report.
 
