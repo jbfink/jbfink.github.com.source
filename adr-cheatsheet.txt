@@ -1,3 +1,6 @@
+For new post
+rake new_post["title"]
+
 For MD syntax
 [link text](http://example.com)
 
