@@ -6,3 +6,5 @@ comments: false
 sharing: true
 footer: true
 ---
+
+Hi. My name is John Fink, and I'm currently the Digital Scholarship Librarian at McMaster University in Hamilton, Ontario.
