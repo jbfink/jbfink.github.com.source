@@ -1,0 +1,12 @@
+New post:
+rake new_post["title"]
+
+For MD syntax
+[link text](http://example.com)
+
+http://octopress.org/docs/plugins/blockquote/
+{% blockquote [author[, source]] [link] [source_link_title] %}
+Quote string
+{% endblockquote %}
+
+
