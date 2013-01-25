@@ -9,4 +9,5 @@ http://octopress.org/docs/plugins/blockquote/
 Quote string
 {% endblockquote %}
 
-
+images
+{% img [class names] /path/to/image [width] [height] [title text [alt text]] %}
